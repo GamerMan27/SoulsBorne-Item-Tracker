@@ -1,0 +1,2 @@
+An Item tracker that can track items gathered per area, with a percentage for each area and overall. 
+Should have datasets for Demons Souls, Dark Souls 1-3, Bloodborne, Sekiro Shadows Die Twice, Lies of P, Black Myth Wukong, Elden Ring.

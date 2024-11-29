@@ -1,0 +1,11 @@
+Coding options: Java, C++, Kotlin.
+
+Kotlin for Android, Java for PC?
+
+Data will be stored:
+	One file for items with item numbers, names
+	One file with item numbers to reference, links to wikis
+	One file with item numbers to reference, with map names and item amounts found inside
+	One file to save gotten items
+	Item Icons from wikis to display
+
