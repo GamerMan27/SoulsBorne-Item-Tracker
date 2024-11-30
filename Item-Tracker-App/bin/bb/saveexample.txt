@@ -1,0 +1,32 @@
+Map Number
+Item Number
+Quantity
+Item Number
+Quantity
+Item Number
+Quantity
+&
+Map Number
+Item Number
+Quantity
+Item Number
+Quantity
+Item Number
+Quantity
+&
+Map Number
+Item Number
+Quantity
+Item Number
+Quantity
+Item Number
+Quantity
+&
+Map Number
+Item Number
+Quantity
+Item Number
+Quantity
+Item Number
+Quantity
+&
